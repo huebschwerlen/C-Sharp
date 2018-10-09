@@ -1,0 +1,7 @@
+F:\VisualStudio\Projects\branching\branching\bin\Debug\branching.exe.config
+F:\VisualStudio\Projects\branching\branching\bin\Debug\branching.exe
+F:\VisualStudio\Projects\branching\branching\bin\Debug\branching.pdb
+F:\VisualStudio\Projects\branching\branching\obj\Debug\branching.csprojAssemblyReference.cache
+F:\VisualStudio\Projects\branching\branching\obj\Debug\branching.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\branching\branching\obj\Debug\branching.exe
+F:\VisualStudio\Projects\branching\branching\obj\Debug\branching.pdb
