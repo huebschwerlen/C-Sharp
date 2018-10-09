@@ -1,0 +1,7 @@
+F:\VisualStudio\Projects\booleanLoops\booleanLoops\obj\Debug\booleanLoops.csprojAssemblyReference.cache
+F:\VisualStudio\Projects\booleanLoops\booleanLoops\obj\Debug\booleanLoops.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\booleanLoops\booleanLoops\bin\Debug\booleanLoops.exe.config
+F:\VisualStudio\Projects\booleanLoops\booleanLoops\bin\Debug\booleanLoops.exe
+F:\VisualStudio\Projects\booleanLoops\booleanLoops\bin\Debug\booleanLoops.pdb
+F:\VisualStudio\Projects\booleanLoops\booleanLoops\obj\Debug\booleanLoops.exe
+F:\VisualStudio\Projects\booleanLoops\booleanLoops\obj\Debug\booleanLoops.pdb
