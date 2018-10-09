@@ -1,0 +1,6 @@
+F:\VisualStudio\Projects\strings\strings\bin\Debug\strings.exe.config
+F:\VisualStudio\Projects\strings\strings\bin\Debug\strings.exe
+F:\VisualStudio\Projects\strings\strings\bin\Debug\strings.pdb
+F:\VisualStudio\Projects\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\strings\strings\obj\Debug\strings.exe
+F:\VisualStudio\Projects\strings\strings\obj\Debug\strings.pdb
