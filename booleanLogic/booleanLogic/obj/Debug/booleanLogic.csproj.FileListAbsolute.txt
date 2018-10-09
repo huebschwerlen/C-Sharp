@@ -1,0 +1,7 @@
+F:\VisualStudio\Projects\booleanLogic\booleanLogic\bin\Debug\booleanLogic.exe.config
+F:\VisualStudio\Projects\booleanLogic\booleanLogic\bin\Debug\booleanLogic.exe
+F:\VisualStudio\Projects\booleanLogic\booleanLogic\bin\Debug\booleanLogic.pdb
+F:\VisualStudio\Projects\booleanLogic\booleanLogic\obj\Debug\booleanLogic.csprojAssemblyReference.cache
+F:\VisualStudio\Projects\booleanLogic\booleanLogic\obj\Debug\booleanLogic.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\booleanLogic\booleanLogic\obj\Debug\booleanLogic.exe
+F:\VisualStudio\Projects\booleanLogic\booleanLogic\obj\Debug\booleanLogic.pdb
