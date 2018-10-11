@@ -1,0 +1,7 @@
+F:\VisualStudio\Projects\iteration\iteration\obj\Debug\iteration.csprojAssemblyReference.cache
+F:\VisualStudio\Projects\iteration\iteration\obj\Debug\iteration.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\iteration\iteration\bin\Debug\iteration.exe.config
+F:\VisualStudio\Projects\iteration\iteration\bin\Debug\iteration.exe
+F:\VisualStudio\Projects\iteration\iteration\bin\Debug\iteration.pdb
+F:\VisualStudio\Projects\iteration\iteration\obj\Debug\iteration.exe
+F:\VisualStudio\Projects\iteration\iteration\obj\Debug\iteration.pdb
