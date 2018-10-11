@@ -45,6 +45,10 @@ namespace exceptionHandling
                     Console.WriteLine("Please don't enter a zero.");
 
                 }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
                 finally
                 {
                     Console.WriteLine("Program has emerged from the try/catch block and continued on with program execution.\nPress Enter to continue.");
