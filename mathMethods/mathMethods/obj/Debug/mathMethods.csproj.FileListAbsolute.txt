@@ -1,0 +1,7 @@
+F:\VisualStudio\Projects\mathMethods\mathMethods\bin\Debug\mathMethods.exe.config
+F:\VisualStudio\Projects\mathMethods\mathMethods\bin\Debug\mathMethods.exe
+F:\VisualStudio\Projects\mathMethods\mathMethods\bin\Debug\mathMethods.pdb
+F:\VisualStudio\Projects\mathMethods\mathMethods\obj\Debug\mathMethods.csprojAssemblyReference.cache
+F:\VisualStudio\Projects\mathMethods\mathMethods\obj\Debug\mathMethods.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\mathMethods\mathMethods\obj\Debug\mathMethods.exe
+F:\VisualStudio\Projects\mathMethods\mathMethods\obj\Debug\mathMethods.pdb
