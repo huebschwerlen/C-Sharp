@@ -67,7 +67,7 @@ namespace iteration
             int[] testscores = { 60, 70, 80, 90, 100, 95, 85, 75, 65 };
 
             //iterate thru loop using "<=" operator
-            for (int k = 0; k <= testscores.Length; k++)
+            for (int k = 0; k <= 8; k++)
             {
                 if (testscores[k] <= 70)
                 {
