@@ -10,19 +10,25 @@ namespace iteration
     {
         static void Main(string[] args)
         {
+            
             //create one dimensional array of strings
-            string[] names = { "rosencrantz", "guildenstern", "vladimir", "estragon", ""};
+            string[] names = { "rosencrantz", "guildenstern", "vladimir", "estragon"};
 
             //prompt user to input a name
-            Console.WriteLine("Please enter a name: ");
+            Console.WriteLine("Please enter some text: ");
 
-            //add name to end of array, index 4
-            names[4] = Console.ReadLine();
+            //prompt user to input 'some text'
+            string someTxt = Console.ReadLine();
 
-            //print out each string (or name) in the array on a different line
-            foreach (string name in names)
+            
+            //loop through array and add 'some text' to the end of each string
+            //loop through array and print out each string on a separate line
+            for (int i = 0; i < names.Length; i++)
             {
-                Console.WriteLine(name);
+                names[i] = names[i] + " " + someTxt;
+
+                Console.WriteLine(names[i]);
+
             }
             Console.ReadLine();
 
@@ -61,7 +67,7 @@ namespace iteration
             int[] testscores = { 60, 70, 80, 90, 100, 95, 85, 75, 65 };
 
             //iterate thru loop using "<=" operator
-            for (int k = 0; k < testscores.Length; k++)
+            for (int k = 0; k <= testscores.Length; k++)
             {
                 if (testscores[k] <= 70)
                 {
@@ -74,45 +80,45 @@ namespace iteration
                 }
             }
             Console.ReadLine();
-
+            
             
             //create a list of strings where each item is unique
             List<string> names3 = new List<string>() { "lynne", "orbison", "petty", "harrison", "dylan" };
 
+
+
             //ask user to select text to search for in the list
             Console.WriteLine("Please type one of the following names: \nlynne, orbison, petty, harrison, dylan");
-            string nameInput = Console.ReadLine();
 
             //create loop that iterates thru loop and displays index of array that contains matching input text
-            bool running = false;
+            bool running = true;
             do
             {
+                
+                string nameInput = Console.ReadLine();
+                
 
                 foreach (string name3 in names3)
-
                 {
                     if (nameInput == name3)
                     {
                         Console.WriteLine(names3.IndexOf(name3));
-                        Console.ReadLine();
-                        running = true;
-                        break;
-                    }
-
-                    else if (nameInput != name3)
-                    {
                         
-                        Console.WriteLine("Name not found in list. Please try again.");
-                        nameInput = Console.ReadLine();
+                        running = false;
                         break;
-
-
                     }
-
+                    
                 }
-
+                if (running)
+                {
+                    Console.WriteLine("Name not found in list. Please try again.");
+                    
+                }
             } 
-            while (!running); //add code that stops loop from executing once a match has been found
+            while (running); //add code that stops loop from executing once a match has been found
+            Console.ReadLine();
+
+
 
             
 
@@ -124,27 +130,34 @@ namespace iteration
             string loweInput = Console.ReadLine();
 
             //create loop that iterates thru loop and displays index of array that contains matching input text
-           
 
+            // StringBuilder tempFound = new StringBuilder();
+            string tempFound = ("");
+            
                 for (int n = 0; n < robLowe.Count; n++)
                     
                 {
 
+              
+
+
                 if (robLowe[n] == loweInput)
                 {
-                    Console.WriteLine(loweInput + " Was found at index: " + n);
-
+                    //Console.WriteLine(loweInput + " Was found at index: " + n);
+                    tempFound = tempFound + n + ", ";
+                    //tempFound.Append(n + ", ");
                 }
 
-                else
-                {
-                    Console.WriteLine(loweInput + " Was not found at index: " + n);
-                }
+                //else
+                //{
+                //    Console.WriteLine(loweInput + " Was not found at index: " + n);
+                //}
                     
                 }
+                Console.WriteLine("Matches found at " + tempFound);
                 Console.ReadLine();
           
-
+    
 
 
             //create a list of strings where there are duplicate strings
@@ -179,6 +192,7 @@ namespace iteration
             }
            
         }
-        
+
+
     }
 }
