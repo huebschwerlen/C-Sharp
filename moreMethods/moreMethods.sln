@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moreMethods", "moreMethods\moreMethods.csproj", "{CF22FE3D-5623-400B-9DBA-A1F941199EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF22FE3D-5623-400B-9DBA-A1F941199EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF22FE3D-5623-400B-9DBA-A1F941199EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF22FE3D-5623-400B-9DBA-A1F941199EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF22FE3D-5623-400B-9DBA-A1F941199EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4D9C7A-5D3A-42E2-9C54-2F0C791CDA56}
+	EndGlobalSection
+EndGlobal

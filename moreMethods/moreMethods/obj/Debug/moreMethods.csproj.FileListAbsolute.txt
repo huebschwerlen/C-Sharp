@@ -1,0 +1,7 @@
+F:\VisualStudio\Projects\moreMethods\moreMethods\bin\Debug\moreMethods.exe.config
+F:\VisualStudio\Projects\moreMethods\moreMethods\bin\Debug\moreMethods.exe
+F:\VisualStudio\Projects\moreMethods\moreMethods\bin\Debug\moreMethods.pdb
+F:\VisualStudio\Projects\moreMethods\moreMethods\obj\Debug\moreMethods.csprojAssemblyReference.cache
+F:\VisualStudio\Projects\moreMethods\moreMethods\obj\Debug\moreMethods.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\moreMethods\moreMethods\obj\Debug\moreMethods.exe
+F:\VisualStudio\Projects\moreMethods\moreMethods\obj\Debug\moreMethods.pdb
