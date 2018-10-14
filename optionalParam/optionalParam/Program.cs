@@ -28,7 +28,7 @@ namespace optionalParam
             }
             catch
             {
-                intInput2 = 0;
+                intInput2 = 0; //5. Try various combinations of numbers on the code, including having no second number.
             }
             
             
