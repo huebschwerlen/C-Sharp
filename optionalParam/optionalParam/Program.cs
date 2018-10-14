@@ -24,18 +24,18 @@ namespace optionalParam
             try
             {
                 Console.WriteLine("Optional: Enter a second number: ");
-                intInput2 = int.Parse(Console.ReadLine());
+                intInput2 = Convert.ToInt32(Console.ReadLine());
             }
             catch
             {
                 intInput2 = 0; //5. Try various combinations of numbers on the code, including having no second number.
             }
-            
-            
-            
 
-                //4.Call the method in the class, passing in the one or two numbers entered.
-                int intInput = math1.MathOp(intInput1, intInput2);
+
+
+
+    //4.Call the method in the class, passing in the one or two numbers entered.
+    int intInput = math1.MathOp(intInput1, intInput2);
             Console.WriteLine(intInput);
             Console.ReadKey();
         }
