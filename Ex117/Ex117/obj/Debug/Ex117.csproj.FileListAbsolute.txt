@@ -1,0 +1,6 @@
+F:\VisualStudio\Projects\Ex117\Ex117\bin\Debug\Ex117.exe.config
+F:\VisualStudio\Projects\Ex117\Ex117\bin\Debug\Ex117.exe
+F:\VisualStudio\Projects\Ex117\Ex117\bin\Debug\Ex117.pdb
+F:\VisualStudio\Projects\Ex117\Ex117\obj\Debug\Ex117.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\Ex117\Ex117\obj\Debug\Ex117.exe
+F:\VisualStudio\Projects\Ex117\Ex117\obj\Debug\Ex117.pdb
