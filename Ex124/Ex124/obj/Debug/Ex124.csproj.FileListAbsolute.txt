@@ -1,0 +1,7 @@
+F:\VisualStudio\Projects\Ex124\Ex124\bin\Debug\Ex124.exe.config
+F:\VisualStudio\Projects\Ex124\Ex124\bin\Debug\Ex124.exe
+F:\VisualStudio\Projects\Ex124\Ex124\bin\Debug\Ex124.pdb
+F:\VisualStudio\Projects\Ex124\Ex124\obj\Debug\Ex124.csprojAssemblyReference.cache
+F:\VisualStudio\Projects\Ex124\Ex124\obj\Debug\Ex124.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\Ex124\Ex124\obj\Debug\Ex124.exe
+F:\VisualStudio\Projects\Ex124\Ex124\obj\Debug\Ex124.pdb
