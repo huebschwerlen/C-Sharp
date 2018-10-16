@@ -1,0 +1,7 @@
+F:\VisualStudio\Projects\Ex120\Ex120\obj\Debug\Ex120.csprojAssemblyReference.cache
+F:\VisualStudio\Projects\Ex120\Ex120\obj\Debug\Ex120.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\Ex120\Ex120\bin\Debug\Ex120.exe.config
+F:\VisualStudio\Projects\Ex120\Ex120\bin\Debug\Ex120.exe
+F:\VisualStudio\Projects\Ex120\Ex120\bin\Debug\Ex120.pdb
+F:\VisualStudio\Projects\Ex120\Ex120\obj\Debug\Ex120.exe
+F:\VisualStudio\Projects\Ex120\Ex120\obj\Debug\Ex120.pdb
