@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Ex131\Ex131\bin\Debug\Ex131.exe.config
+C:\Users\Student\source\repos\Ex131\Ex131\bin\Debug\Ex131.exe
+C:\Users\Student\source\repos\Ex131\Ex131\bin\Debug\Ex131.pdb
+C:\Users\Student\source\repos\Ex131\Ex131\obj\Debug\Ex131.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Ex131\Ex131\obj\Debug\Ex131.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Ex131\Ex131\obj\Debug\Ex131.exe
+C:\Users\Student\source\repos\Ex131\Ex131\obj\Debug\Ex131.pdb
