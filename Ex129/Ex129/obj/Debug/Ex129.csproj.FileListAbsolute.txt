@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Ex129\Ex129\bin\Debug\Ex129.exe.config
+C:\Users\Student\source\repos\Ex129\Ex129\bin\Debug\Ex129.exe
+C:\Users\Student\source\repos\Ex129\Ex129\bin\Debug\Ex129.pdb
+C:\Users\Student\source\repos\Ex129\Ex129\obj\Debug\Ex129.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Ex129\Ex129\obj\Debug\Ex129.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Ex129\Ex129\obj\Debug\Ex129.exe
+C:\Users\Student\source\repos\Ex129\Ex129\obj\Debug\Ex129.pdb
