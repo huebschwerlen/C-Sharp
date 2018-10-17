@@ -10,9 +10,9 @@ namespace Ex134
             string response = Console.ReadLine();
 
             DayOfWeek day = (DayOfWeek)Enum.Parse(typeof(DayOfWeek), response);
-
+            int day1 = (int)day;
     
-            Console.WriteLine(response + " " + day);
+            Console.WriteLine(response + " " + day + " " + day1);
             Console.ReadLine();
         }
     }
