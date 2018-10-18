@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Ex137\Ex137\bin\Debug\Ex137.exe.config
+C:\Users\Student\source\repos\Ex137\Ex137\bin\Debug\Ex137.exe
+C:\Users\Student\source\repos\Ex137\Ex137\bin\Debug\Ex137.pdb
+C:\Users\Student\source\repos\Ex137\Ex137\obj\Debug\Ex137.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Ex137\Ex137\obj\Debug\Ex137.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Ex137\Ex137\obj\Debug\Ex137.exe
+C:\Users\Student\source\repos\Ex137\Ex137\obj\Debug\Ex137.pdb
