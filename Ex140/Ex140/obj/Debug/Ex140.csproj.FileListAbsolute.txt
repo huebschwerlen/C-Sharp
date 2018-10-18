@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Ex140\Ex140\bin\Debug\Ex140.exe.config
+C:\Users\Student\source\repos\Ex140\Ex140\bin\Debug\Ex140.exe
+C:\Users\Student\source\repos\Ex140\Ex140\bin\Debug\Ex140.pdb
+C:\Users\Student\source\repos\Ex140\Ex140\obj\Debug\Ex140.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Ex140\Ex140\obj\Debug\Ex140.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Ex140\Ex140\obj\Debug\Ex140.exe
+C:\Users\Student\source\repos\Ex140\Ex140\obj\Debug\Ex140.pdb
