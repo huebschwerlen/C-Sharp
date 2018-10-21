@@ -1,0 +1,7 @@
+F:\VisualStudio\Projects\TwentyOneFinal\TwentyOneFinal\obj\Debug\TwentyOneFinal.csprojAssemblyReference.cache
+F:\VisualStudio\Projects\TwentyOneFinal\TwentyOneFinal\obj\Debug\TwentyOneFinal.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Projects\TwentyOneFinal\TwentyOneFinal\bin\Debug\TwentyOneFinal.exe.config
+F:\VisualStudio\Projects\TwentyOneFinal\TwentyOneFinal\bin\Debug\TwentyOneFinal.exe
+F:\VisualStudio\Projects\TwentyOneFinal\TwentyOneFinal\bin\Debug\TwentyOneFinal.pdb
+F:\VisualStudio\Projects\TwentyOneFinal\TwentyOneFinal\obj\Debug\TwentyOneFinal.exe
+F:\VisualStudio\Projects\TwentyOneFinal\TwentyOneFinal\obj\Debug\TwentyOneFinal.pdb
