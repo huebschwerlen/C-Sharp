@@ -23,7 +23,7 @@ namespace ExceptionHandling
                         validAnswer = int.TryParse(Console.ReadLine(), out age);
                         if (!validAnswer) Console.WriteLine("Please enter digits only. No decimals.");
                     }
-                    if (age < 0)
+                    if (age <= 0)
                     {
                         throw new ArgumentOutOfRangeException();
                     }
